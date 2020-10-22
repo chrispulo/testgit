@@ -1,0 +1,5 @@
+Process: com.gsmc.qile, PID: 17071
+    android.view.InflateException: Binary XML file line #127 in com.taobao.gxl.sophix.hotifx:layout/self_help_red_packet_fragment: Binary XML file line #127 
+	in com.taobao.gxl.sophix.hotifx:layout/self_help_red_packet_fragment: Error inflating class TextView
+    Caused by: android.view.InflateException: Binary XML file line #127 in com.taobao.gxl.sophix.hotifx:layout/self_help_red_packet_fragment: Error inflating class TextView
+    Caused by: java.lang.IndexOutOfBoundsException
