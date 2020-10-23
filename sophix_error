@@ -4,8 +4,10 @@ Process: com.gsmc.qile, PID: 17071
     Caused by: android.view.InflateException: Binary XML file line #127 in com.taobao.gxl.sophix.hotifx:layout/self_help_red_packet_fragment: Error inflating class TextView
     Caused by: java.lang.IndexOutOfBoundsException
 
-	1+1=4
-	3+4=10
-	4+7=20
-	8+9=21
+
+	1+1=2
+	3+4=7
+	4+7=11
+	8+9=17
+	1+1=2
 
